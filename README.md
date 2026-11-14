@@ -2,6 +2,7 @@
 
 Zombie Game Stage 3 — Formal Proposal
 Sean Sanpietro
+Ha'oh Bode
 Specialization — Parallel computing with shared memory
 
 I will study whether sharing one copy of the location data between workers speeds up event processing in the Zombie Simulator.
